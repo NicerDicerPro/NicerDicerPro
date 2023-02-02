@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Conversion Maker AI - an AI powered Tool for conversion optimization<br>🌱 Im currently diving into the depths of React, Next.JS and TypeScript<br>💬 What's your current favourite programming language and why?<br>⚡ Did you know the Eiffel Tower can be 15cm taller in summer due to the thermal expansion of the iron?
+🔭 I’m currently working on Conversion Maker AI - an AI powered Tool for conversion optimization<br>🌱 Im diving into the depths of React, Next.JS and TypeScript<br>💬 What's your current favourite programming language and why?<br>⚡ Did you know the Eiffel Tower can be 15cm taller in summer due to the thermal expansion of the iron?
 
 
 ## 🌐 Socials:
